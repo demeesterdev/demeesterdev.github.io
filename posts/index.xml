@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on DeMeester.dev</title>
+    <link>https://demeester.dev/posts/</link>
+    <description>Recent content in Posts on DeMeester.dev</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 20 Jan 2020 13:44:19 +0200</lastBuildDate>
+    
+	<atom:link href="https://demeester.dev/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Projects Overview</title>
+      <link>https://demeester.dev/posts/project-page/</link>
+      <pubDate>Mon, 20 Jan 2020 13:44:19 +0200</pubDate>
+      
+      <guid>https://demeester.dev/posts/project-page/</guid>
+      <description>A simple web page to publish my insights via posts ánd a webpage where my projects are listed and posts are clearly linked with these projects.
+I only started this blog recently. And as with every project i can see multiple angles for improvement. For this iteration I focused on getting my projects visible. I want an overview showing all the projects i have worked on and the amount of information (posts) that followed from that project.</description>
+    </item>
+    
+    <item>
+      <title>DeMeester.dev: A Static Website</title>
+      <link>https://demeester.dev/posts/a-static-website/</link>
+      <pubDate>Sun, 05 Jan 2020 12:22:48 +0100</pubDate>
+      
+      <guid>https://demeester.dev/posts/a-static-website/</guid>
+      <description>Plain old HTML and CSS with a splash of JS to add the bare necessities. The thought of building a simple website has been popping in and out of my mind for quite some time. and I always loved the idea of a website that would just work. A website that would not need a platform with regular maintenance.
+A website using just HTML and CSS would do the trick. I always loved writing simple HTML, but the amount of boilerplate needed to get a nice and readable website always kept me back from starting a website this way.</description>
+    </item>
+    
+    <item>
+      <title>Let&#39;s Start</title>
+      <link>https://demeester.dev/posts/lets-start/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0100</pubDate>
+      
+      <guid>https://demeester.dev/posts/lets-start/</guid>
+      <description>Lately, I have had some thoughts that I&amp;rsquo;d like to share. And I have been thinking of starting a blog and website with all my ramblings. well here it is, it&amp;rsquo;s alive and kicking.
+I will publish my thoughts, experiences, and ideas on this site.
+I&amp;rsquo;ll keep you posted ;-)</description>
+    </item>
+    
+  </channel>
+</rss>
